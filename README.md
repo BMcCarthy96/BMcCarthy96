@@ -6,6 +6,4 @@ AI-focused software engineer. LLM workflow automation, internal tools, and full-
 
 **Stack:** TypeScript, Python, React/Next.js, React Native, Node, Flask, PostgreSQL, Supabase, Claude & OpenAI APIs, Docker
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/brandon-mccarthy96-586646141/) · bmac96.dev@gmail.com
-
-<!-- TODO: add portfolio link once the new domain is live -->
+**Links:** [Portfolio](https://portfolio-coral-pi-56.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/brandon-mccarthy96-586646141/) · mccarthyaiautomations@gmail.com
