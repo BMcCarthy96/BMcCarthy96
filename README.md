@@ -1,18 +1,20 @@
 # Brandon McCarthy
 
-AI Solutions & Implementation Engineer building enterprise AI workflows, integration systems, and full-stack tools in TypeScript and Python. I focus on validated model output, human approval, evaluation, auditability, and reliable background processing.
+I build full stack and applied AI projects in TypeScript and Python. My recent work focuses on AI that reads source material, shows where its answers came from, and keeps a person responsible for the final decision.
 
 ## Featured work
 
-- **[Enterprise AI Implementation Workbench](https://github.com/BMcCarthy96/enterprise-ai-implementation-workbench)** — Multi-tenant requirements and document intake, evidence-grounded implementation plans, four-role RBAC with PostgreSQL RLS, approval-gated task materialization, S3/SQS/Bedrock jobs, retries/DLQ, and a 15-case × 3-variant evaluation matrix.
-- **[Pulse](https://github.com/BMcCarthy96/pulse)** — Synthetic healthcare integration reliability platform with four simulated connectors, evidence-cited AI investigations, PHI redaction plus an independent leak check, approval-gated recovery, and 274 automated tests.
-- **[IntakeFlow](https://github.com/BMcCarthy96/healthcare-intake-ai)** — Synthetic healthcare document workflow with page-level evidence, deterministic routing, human review, audit history, and a 60-packet evaluation harness.
+- **[Enterprise AI Implementation Workbench](https://github.com/BMcCarthy96/enterprise-ai-implementation-workbench):** Reads project requirements and uploaded files, then drafts an implementation plan with citations. A reviewer approves the plan before the app creates tasks. It includes tenant access controls, PostgreSQL row security, S3 storage, SQS processing, and an evaluation set with 15 cases across three prompt versions.
+- **[Pulse](https://github.com/BMcCarthy96/pulse):** Monitors four simulated healthcare connections and opens an incident when a job fails. Each finding points back to the event behind it. Patient details are removed before model use, recovery waits for a reviewer, and the project is covered by 274 automated tests.
+- **[IntakeFlow](https://github.com/BMcCarthy96/healthcare-intake-ai):** Reads synthetic healthcare PDFs and turns them into structured records with page-level evidence. Unclear cases go to a reviewer, and a 60-packet evaluation set checks the workflow.
 
-## Current focus
+## Tools I use
 
 AWS Bedrock · S3/SQS · TypeScript · Python · Next.js · FastAPI · PostgreSQL · Redis/BullMQ · pgvector · Zod · Playwright · Vitest/pytest · CI/CD
 
-I currently evaluate AI model outputs on contract with micro1 and bring 5+ years of healthcare documentation experience. Based in Maryville, TN and relocating to Cary, NC upon offer.
+I completed an AI training contract with micro1 in 2026, where I evaluated model responses against detailed rubrics and wrote evidence-based feedback. I also bring more than five years of healthcare documentation experience.
+
+I am based in Maryville, Tennessee and will relocate to Cary, North Carolina when I accept a role.
 
 ## Connect
 
